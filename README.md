@@ -1,9 +1,9 @@
 Evocoin integration/staging tree
 ================================
 
-http://www.evocoin.org
+http://www.evocoin.tech
 
-Copyright (c) 2009-2013 Evocoin Developers
+Copyright (c) 2017 Evocoin Developers
 
 What is Evocoin?
 ----------------
@@ -15,7 +15,7 @@ out collectively by the network. Evocoin is also the name of the open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Evocoin client software, see http://www.evocoin.org.
+the Evocoin client software, see http://www.evocoin.tech.
 
 License
 -------
